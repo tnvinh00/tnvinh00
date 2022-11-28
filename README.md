@@ -44,6 +44,8 @@ I'm dev =.=
 
 ### **Projects 🚀**
 
+- [MOVIT Movie](https://movit-tmdb.vercel.app/)
+
 - [phoocchunam](https://phoocchunam.vercel.app/)
 
 - [loviapp](https://github.com/tnvinh00/loviapp)
