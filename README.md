@@ -1,5 +1,5 @@
-<h1><strong>Hi there, I'm tnvinh00 </strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
-I'm dev =.=
+<h1><strong>Hi there, I'm Vince (tnvinh00) </strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
+I'm a Frontend Dev =.=
 
 <br />
 <br />
@@ -13,9 +13,10 @@ I'm dev =.=
 ### **My skill 📖**
 
 ![React](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![NextJS](https://img.shields.io/badge/NextJS-%23121212.svg?style=flat&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=flat&logo=svelte&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
@@ -26,6 +27,8 @@ I'm dev =.=
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-gray.svg?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23712cf9.svg?style=flat&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)
 ![Primeng](https://img.shields.io/badge/PrimeNG-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
@@ -38,6 +41,8 @@ I'm dev =.=
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+
+![All](https://skillicons.dev/icons?i=html,css,scss,tailwind,mui,bootstrap,styledcomponents,js,ts,react,redux,nextjs,svelte,angular,md,figma,xd,ps,git,github,githubactions,vite,vercel,vscode,npm,pnpm)
 
 ### **My hobby ️⚽️**
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)
@@ -58,6 +63,7 @@ I'm dev =.=
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=tnvinh00&show_icons=true&theme=react&icon_color=ffb300" height="165">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnvinh00&layout=compact&theme=dracula&langs_count=6&" height="165">
+<img src="https://github-profile-trophy.vercel.app/?username=tnvinh00&theme=nord&ranks=A,B,C" height="165" >
 </p>
 
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tnvinh00&repo=loviapp) -->
