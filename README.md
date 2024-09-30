@@ -6,6 +6,7 @@ I'm a Frontend Dev =.=
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tnvinh00">
+  <img src="https://wakatime.com/badge/user/018ed1a4-7d6f-4e86-bb16-3971f665f1d3.svg">
   <img src="https://shields.io/github/stars/tnvinh00">
   <img src="https://img.shields.io/github/followers/tnvinh00">
 </p>
@@ -46,6 +47,10 @@ I'm a Frontend Dev =.=
 
 ### **My hobby ️⚽️**
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)
+
+### **Weekly development breakdown 📊**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### **Projects 🚀**
 
