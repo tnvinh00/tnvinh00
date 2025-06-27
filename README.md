@@ -52,11 +52,11 @@ I'm a Frontend Dev =.=
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte        10 hrs 29 mins  ████████████████████████░   95.95 %
-JSON          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-TypeScript    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Python        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-JavaScript    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Svelte        11 hrs 34 mins  ████████████████████████░   96.31 %
+JSON          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+TypeScript    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Python        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+JavaScript    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
