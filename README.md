@@ -52,7 +52,7 @@ I'm a Frontend Dev =.=
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript    9 hrs 47 mins   █████████████████████▓░░░   86.24 %
+JavaScript    9 hrs 47 mins   █████████████████████▓░░░   86.25 %
 CSS           29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 SCSS          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 JSON          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
