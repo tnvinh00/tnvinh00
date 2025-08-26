@@ -52,7 +52,7 @@ I'm a Frontend Dev =.=
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
