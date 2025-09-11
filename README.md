@@ -52,11 +52,11 @@ I'm a Frontend Dev =.=
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   22 hrs 47 mins  █████████████████░░░░░░░░   67.37 %
-JSON         4 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
-Markdown     2 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-JavaScript   1 hr 58 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-YAML         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+TypeScript   23 hrs 35 mins  ██████████████████▒░░░░░░   73.58 %
+JSON         3 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+JavaScript   1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Markdown     1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Other        36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
